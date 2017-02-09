@@ -338,51 +338,51 @@ https://speakerdeck.com/amcaplan/flag-your-features-with-rollout-and-degrade
 - Саша П
   + http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings
 
-## -topics
+## Topics
 
-- http://codon.com/consider-static-typing
-  + ruby 3.0
-- https://github.com/DrBoolean/mostly-adequate-guide
-  + Mostly adequate guide to FP (in javascript)
-- https://mattbrictson.com/nginx-reverse-proxy-cache
-  + OPS nginx
-- http://www.sitepoint.com/introduction-futuristic-new-router-angularjs/
-  + angular2
-- http://homeonrails.com/2015/05/razrabatyvaiem-ruby-gem-v-docker-kontieinierie/
-  + docker
-- http://wyeworks.com/blog/2015/5/13/using-the-page-object-pattern-with-ember-cli/
-  + ember
-- http://carlosrafaelgn.com.br/Asm86/index.html?language=en
-  + fun
-- https://github.com/avdi/sbpprb
-  + mr
-- http://codon.com/programming-with-nothing
-  + reading
-- http://6ftdan.com/allyourdev/2015/05/13/rails-dont-pluck-unnecessarily/
-  + rails
-- https://github.com/TheBlasfem/ruby-patterns
-  + ruby
-- https://github.com/edelpero/lupa
-  + gem
-- https://prelang.com/
-  + lol
-- http://fromrailstoember.com/
-  + rails -> ember
-- http://babeljs.io/docs/learn-es6/
-  + ES6
-- https://umaar.com/dev-tips/
-  + devtools
-- https://gist.github.com/JoshCheek/121e587101d397cbfbf3
-  + sinatra clone
-- http://www.moxleystratton.com/blog/2008/05/01/clojure-tutorial-for-the-non-lisp-programmer/
-  + clojure
-- https://gist.github.com/pixeltrix/e2298822dd89d854444b
-  + Date vs DateTime
-- https://www.scalyr.com/community/guides/an-in-depth-guide-to-nginx-metrics
-  + nginx metrics
-- https://www.youtube.com/watch?v=Vmln9LvGbdo&app=desktop
-  + Elixir Intro by Jose
-- http://zacstewart.com/2015/05/14/using-json-web-tokens-to-authenticate-javascript-front-ends-on-rails.html
-  + Rails + FE authentication
-- https://www.reindex.io/blog/you-might-not-need-underscore/
-  + pure JS vs underscore
+- ruby 3.0
+  + http://codon.com/consider-static-typing
+- Mostly adequate guide to FP (in javascript)
+  + https://github.com/DrBoolean/mostly-adequate-guide
+- OPS nginx
+  + https://mattbrictson.com/nginx-reverse-proxy-cache
+- angular2
+  + http://www.sitepoint.com/introduction-futuristic-new-router-angularjs/
+- docker
+  + http://homeonrails.com/2015/05/razrabatyvaiem-ruby-gem-v-docker-kontieinierie/
+- ember
+  + http://wyeworks.com/blog/2015/5/13/using-the-page-object-pattern-with-ember-cli/
+- fun
+  + http://carlosrafaelgn.com.br/Asm86/index.html?language=en
+- mr
+  + https://github.com/avdi/sbpprb
+- reading
+  + http://codon.com/programming-with-nothing
+- rails
+  + http://6ftdan.com/allyourdev/2015/05/13/rails-dont-pluck-unnecessarily/
+- ruby
+  + https://github.com/TheBlasfem/ruby-patterns
+- gem
+  + https://github.com/edelpero/lupa
+- lol
+  + https://prelang.com/
+- rails -> ember
+  + http://fromrailstoember.com/
+- ES6
+  + http://babeljs.io/docs/learn-es6/
+- devtools
+  + https://umaar.com/dev-tips/
+- sinatra clone
+  + https://gist.github.com/JoshCheek/121e587101d397cbfbf3
+- clojure
+  + http://www.moxleystratton.com/blog/2008/05/01/clojure-tutorial-for-the-non-lisp-programmer/
+- Date vs DateTime
+  + https://gist.github.com/pixeltrix/e2298822dd89d854444b
+- nginx metrics
+  + https://www.scalyr.com/community/guides/an-in-depth-guide-to-nginx-metrics
+- Elixir Intro by Jose
+  + https://www.youtube.com/watch?v=Vmln9LvGbdo&app=desktop
+- Rails + FE authentication
+  + http://zacstewart.com/2015/05/14/using-json-web-tokens-to-authenticate-javascript-front-ends-on-rails.html
+- pure JS vs underscore
+  + https://www.reindex.io/blog/you-might-not-need-underscore/
