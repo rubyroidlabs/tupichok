@@ -1,3 +1,19 @@
+## 2017-02-09
+
+- Валик
+  + What __HTTP/2__ means for rails developer?
+    * https://www.speedshop.co/2016/01/07/what-http2-means-for-ruby-developers.html
+  + New __hash__ implementation in ruby 2.4
+    * http://blog.redpanthers.co/behind-scenes-hash-table-performance-ruby-2-4/
+  + Gem __underlock__ -- Encryption for Ruby made easy.
+    * https://github.com/metaware/underlock
+  + gem __spreadsheet_architect__
+    * https://github.com/westonganger/spreadsheet_architect
+- Илья А
+  + Gem __activerecord-typedstore__ -- Store with typed attributes.
+    * https://github.com/byroot/activerecord-typedstore
+
+
 ## 2015-11-04
 
 - Валик
@@ -10,7 +26,8 @@
 - Вова
   + xlforms,saripaar,SwiftValidator, swift guards
 - Дима Н
-  + http://jqueryvalidation.org/, https://github.com/balexand/email_validator, https://github.com/DavyJonesLocker/client_side_validations
+  + http://jqueryvalidation.org/, https://github.com/balexand/email_validator
+  + https://github.com/DavyJonesLocker/client_side_validations
 
 ## 2015-07-30
 
