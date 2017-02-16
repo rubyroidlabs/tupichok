@@ -1,3 +1,32 @@
+# TUPICHOK
+
+## 2017-02-16
+
+- Валик:
+  + Плохие гемы
+    * https://github.com/ASoftCo/leaky-gems
+    * gem __devise-token-auth__
+    * gem __sidekiq-unique-jobs__ фейлится на 1_000_000 тасках
+      - github.com __redlock-rb__ -- альтернатива
+    * __nokogiri__
+      - раньше тёк
+    * gem __mime-types__
+    * gem __spree__
+      - no documentation
+    * https://github.com/Dwolla/dwolla-ruby/blob/master/lib/dwolla/offsite_gateway.rb
+    * rails_admin + will_paginate = conflict
+    * axlsx - high memory usage
+    * rails_admin csrf vulnerability
+    * pry changes test behaviour
+- Илья:
+  + immutable.js от facebook
+    * https://github.com/facebook/immutable-js
+
+
+### mentioned
+  - gem __whenever__
+  - https://github.com/swagger-api/swagger-codegen
+
 ## 2017-02-09
 
 - Валик
