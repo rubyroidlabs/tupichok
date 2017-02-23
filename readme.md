@@ -1,5 +1,11 @@
 # TUPICHOK
 
+## 2017-02-23
+- Илья X
+  + reactivex.io effects
+    * rxmarbles.com
+    * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
+
 ## 2017-02-16
 
 - Валик:
