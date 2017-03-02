@@ -1,5 +1,15 @@
 # TUPICHOK
 
+## 2017-03-02
+- Валик
+  + кластеры postgres pg_updateclusters
+  + pgtune
+  + puma_worker_killer gem
+    * enable_rolling_restart отрубил
+  + pg_prepared_statements
+    * уменьшили размер кеша с 1000 до 100, statement_limit в database_yaml
+  + webextension api
+
 ## 2017-02-23
 - Илья X
   + reactivex.io effects
