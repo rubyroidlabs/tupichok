@@ -1,5 +1,10 @@
 # TUPICHOK
 
+## 2017-03-09
+- Илья А.
+  + react
+
+
 ## 2017-03-02
 - Валик
   + кластеры postgres pg_updateclusters
