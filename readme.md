@@ -1,5 +1,23 @@
 # TUPICHOK
 
+## 2017-03-23
+
+- Валик
+  + prepared statements in postgres
+    * https://medium.com/@devinburnette/be-prepared-7768d1a111e1
+  + citrus data sharding
+    * https://www.citusdata.com/
+  + pronto: Quick automated code review of your changes
+    * https://github.com/mmozuras/pronto
+  + 8 Useful Ruby on Rails Gems We Couldn't Live Without
+    * http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without
+  + gem smarter_csv
+    * https://github.com/tilo/smarter_csv
+  + gem bundler-audit
+    * https://github.com/rubysec/bundler-audit
+  + gem annotate
+    * https://github.com/ctran/annotate_models
+
 ## 2017-03-09
 - Илья А.
   + react
