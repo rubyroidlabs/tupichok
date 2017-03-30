@@ -1,5 +1,24 @@
 # TUPICHOK
 
+## 2017-03-30
+
+- Валик
+  + Gems that amazed us:
+    * gem __ransack__ https://github.com/activerecord-hackery/ransack
+    * gem __devise masquerade__
+    * gem __premailer rails__, __letter opener__
+    * gem __roadie__
+    * gem __sitemap generator__
+    * gem __grape swagger__
+    * gem __vcr__
+    * gem __retryable__
+    * gem __chartkit__
+    * gem __groupdate__
+    * gem __money rails__
+    * gem __rack attack__
+    * gem __awrence__
+    * gem __enterprise__
+
 ## 2017-03-23
 
 - Валик
