@@ -1,5 +1,13 @@
 # TUPICHOK
 
+## 2017-04-27
+- Сергей
+  + Moby Docker
+- Валик
+  + Причины перехода с Postgres на MySQL у Убера
+- Юра
+  + column oriented databases
+
 ## 2017-04-13
 
 - Сергей
