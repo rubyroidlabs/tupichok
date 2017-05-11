@@ -1,5 +1,31 @@
 # TUPICHOK
 
+## 2017-05-11
+
+- Валик
+  + Implicit code
+    * https://m.signalvnoise.com/programming-with-a-love-of-the-implicit-66629bb81ee7
+  + Improving capistrano deployment performance
+    * http://engineering.avvo.com/articles/capistrano-deploy-perf.html
+  + gem __sassc-ruby__
+    * https://github.com/sass/sassc-ruby
+  + gem __marginalia__
+    * https://github.com/basecamp/marginalia
+  + gem __rubotnik-boilerplate__
+    * https://github.com/progapandist/rubotnik-boilerplate
+  + gem __methodobject__
+    * https://github.com/LIQIDTechnology/methodobject
+  + Hello, Sidekiq 5.0
+    * http://www.mikeperham.com/2017/04/25/hello-sidekiq-5.0/
+  + gem __administrate__ (still sucks)
+    * https://github.com/thoughtbot/administrate
+  + rails 5.1 final
+    * http://weblog.rubyonrails.org/2017/4/27/Rails-5-1-final/
+  + search and autocomplete in rails
+    * https://www.sitepoint.com/search-autocomplete-rails-apps/
+  + Shadowing bug in the wild
+    * https://thomasleecopeland.com/2017/04/20/shadowing-bug-in-the-wild.html
+
 ## 2017-04-27
 - Сергей
   + Moby Docker
