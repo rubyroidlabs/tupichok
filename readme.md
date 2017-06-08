@@ -1,5 +1,18 @@
 # TUPICHOK
 
+### 2017-06-08
+
+- Валик
+  + gem __rails best practices__
+    * https://github.com/flyerhzm/rails_best_practices
+  + proper memoization
+    * лучше делать через __defined?__
+  + стоит ли мигрировать данные в db/migrate
+    * зависит
+  + lib/tasks vs scripts
+    * Валик хранит одноразовые таски в директории __scripts__, запускает через
+      __rails runner__
+
 ## 2017-05-11
 
 - Валик
