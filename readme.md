@@ -1,5 +1,21 @@
 # TUPICHOK
 
+### 2017-06-15
+
+- Юра
+  + Ethereum, PLB.
+- Илья
+  + What you should know about collapsing margins
+    * (https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
+- Илья Д.
+  - Раст
+    * Zero cost abstractions. Traits. 3 правила. В C переменная -- область RAM.
+      В Rust -- binding. Есть tuple. Значения массива в куче. ";" превращает
+      expression в statement. Ownership всегда один. По дефолту все Variable
+      binding -- immutable. Borrowing -- одолжить ownership. На 1 переменную
+      или много референсов, или один mutable reference. Изза разных scope.
+
+
 ### 2017-06-08
 
 - Валик
