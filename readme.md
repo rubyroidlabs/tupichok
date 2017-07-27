@@ -1,5 +1,12 @@
 # TUPICHOK
 
+### 2017-07-27
+
+- Валик
+  - WYSIWYG: ckeditor tinymce squire mercury
+  - self building bridge
+    * (http://mx3d.com/projects/bridge/)
+
 ### 2017-07-20
 
 - Валик
