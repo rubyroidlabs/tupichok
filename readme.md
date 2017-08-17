@@ -1,5 +1,14 @@
 # TUPICHOK
 
+### 2017-08-17
+
+- Илья Д.
+  - gem bootsnap
+  - gem snip_snip
+  - remote debugging with subdomains on mobile device
+- Илья А.
+  - rails_cache_tags
+
 ### 2017-07-27
 
 - Валик
