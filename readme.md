@@ -1,5 +1,22 @@
 # TUPICHOK
 
+### 2017-09-14
+
+- Илья А.
+  + Antlr
+- Валик
+  + gemfile will be renamed
+    * https://depfu.com/blog/2017/09/06/gemfiles-new-clothes
+  + postgres concurrent index
+    * http://www.craigkerstiens.com/2017/09/10/better-postgres-migrations/
+    * http://postgresguide.com/performance/indexes.html
+  + angular sucks
+    * https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163
+    * https://habrahabr.ru/post/337578/
+- Илья Д.
+  + Atom IDE and Language Server Protocol
+    * http://langserver.org/
+
 ### 2017-08-17
 
 - Илья Д.
