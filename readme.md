@@ -1,5 +1,36 @@
 # TUPICHOK
 
+### 2017-11-09
+- Валик
+  + ruby 2.5 performance improvements
+  + nested transactions
+    * https://ksylvest.com/posts/2017-10-27/transactions-in-ruby-on-rails-and-atomic-bugs
+  + memory conscious programming in ruby
+    * https://gettalong.org/blog/2017/memory-conscious-programming-in-ruby.html
+
+### 2017-10-19
+- Серёжа
+  + когда стоит забить и поставить setTimeout
+- Валик
+  + race condition при деплое
+  + wildcard сертификаты
+  + ruby 2.5 preview
+  + __nullalign__ gem
+
+### 2017-10-12
+- Илья А.
+  + Postgres 10
+  + Логическая репликация
+- Валик
+  + early hints
+
+### 2017-10-05
+- Илья Д.
+  + google home, chromebook, pixel, ipad with keyboard as workstation
+  + pypy, pyston
+- Валик
+  + Ubiquiti Networks
+
 ### 2017-09-14
 
 - Илья А.
